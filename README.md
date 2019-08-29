@@ -2,8 +2,8 @@
 
 ## Requirements 
 
-OpenZeppelin v2.1.2
-Truffle v5.0.32
+* OpenZeppelin v2.1.2
+* Truffle v5.0.32
 
 ## Token Details
 
